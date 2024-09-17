@@ -39,6 +39,50 @@ a{
 .nav-header .header-link:hover{
     color: #ff8138;
 }
+.caixa-pizza{
+    background-color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: auto;
+}
+
+.pizza-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.bloco-pizza {
+    padding: 20px;
+}
+
+.titulo-pizza {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #f32;
+}
+
+.receita-descricao {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color: #ddd;
+}
+
+.pizza-link {
+    font-size: 1rem;
+    color: #ff8138;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pizza-link:hover {
+    color: #fff;
+}
+
 footer{
     background-color: #333;
     color: #fff;
