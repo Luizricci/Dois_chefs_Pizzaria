@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.site-header{
+header{
     background-color: #333;
     color: #fff;
     padding: 1rem 0;
@@ -16,7 +16,7 @@
 }
 a{
     text-decoration: none;
-    color: #fff;
+    color: #ff8138;
 }
 .header-list{
     display: flex;
@@ -38,4 +38,10 @@ a{
 }
 .nav-header .header-link:hover{
     color: #ff8138;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
 }
