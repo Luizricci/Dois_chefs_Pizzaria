@@ -88,4 +88,13 @@ footer{
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    flex-direction: column;
+}
+.image-home{
+    text-align: center;
+    width: 100%;
+}
+#h1{
+    text-align: center;
+    
 }
