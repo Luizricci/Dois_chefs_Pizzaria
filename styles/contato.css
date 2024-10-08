@@ -1,8 +1,26 @@
 
 h2, h3 {
-    color: #000000;
+    color: #ff8138;
+    flex-direction: column;
+    text-align: center;
+    line-height: 2.0em;
 }
 
+.box {
+    width: 1000px;
+    height: 770px;
+    background-color: #000000; 
+    border: 2px solid #cccccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 125px;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
+}
 label {
     display: block;
     margin-top: 10px;
@@ -17,14 +35,10 @@ input, textarea {
 button {
     margin-top: 10px;
     padding: 10px 15px;
-    background-color: #d9534f;
     color: white;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-}
-button:hover {
-    background-color: #c9302c;
 }
 
 footer{
@@ -34,4 +48,8 @@ footer{
     text-align: center;
     flex-direction: column;
     margin-bottom: 15px;
+}
+
+.form {
+    color: #ff8138;
 }
