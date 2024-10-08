@@ -1,0 +1,26 @@
+# Projeto Pizzaria Dois Chef's
+
+Repositório para o projeto de Pizzaria Dois Chef's, desenvolvido com HTML e CSS.
+
+## Sobre o Projeto
+
+O projeto consiste em uma página web com uma interface simples e intuitiva para uma pizzaria. O objetivo é fornecer uma experiência de compra de pizzas de qualidade e conveniência para os clientes.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+
+## Como Executar o Projeto
+
+Ter a extensão Go live instalada.
+
+### Executando o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Luizricci/pizzaria_Dois_chefes.git
+   ```
+2. Entre na pasta do projeto:
+   ```bash
+   pizzaria_Dois_chefes e clique na opção Go Live no canto inferior direito.
